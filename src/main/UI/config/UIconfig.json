@@ -1,0 +1,23 @@
+{
+    "colorThemes":
+        {
+
+            "Default":
+                {
+                    "BG": "0x0057",
+                    "FontColor": "0x00F8EE",
+                    "ScrollThumb": "0x00F9FFB4",
+                    "MenuBar": "0x0900FF",
+                    "CodeSpace": "0x030096"
+                }
+
+        },
+
+    "Fonts":
+        {
+            "Default":
+                {
+                   "Font": "Arial"
+                }
+        }
+}
